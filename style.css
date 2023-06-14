@@ -1,0 +1,143 @@
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+body {
+line-height:1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table {
+border-collapse:collapse;
+border-spacing:0;
+}
+
+
+
+input, select {
+vertical-align:middle;
+}
+
+/*-------------------------------Main code   INDEX ---------------------------------------------------------*/
+
+.wrapper
+{
+	height: 50px;
+	width: 50px;
+}
+header
+{
+	height: 80px;
+	width: 1365px;
+	background-color: black;
+	padding: 5px;
+}
+section
+{
+	height: 1000px;
+	width: 1375px;
+	background-color: black;
+}
+
+
+
+li a
+{
+	color: white;
+	text-decoration: none;
+}
+
+
+section 
+.sec_img
+{
+	height: 550px;
+	margin-top: 0px;
+	background-image: url("images/index.jpg");
+}
+.box
+{
+	height: 150px;
+	width: 400px;
+	background-color: #030002;
+	margin: 110px auto;
+	opacity: .8;
+	color: white;
+}
+
+/*--------------------------------st_login-----------------------------*/
+
+.log_img
+{
+	height: 650px;
+	margin-top: 0px;
+	background-image: url("images/login.png");
+}
+.box1
+{
+	height:450px;
+	width: 450px;
+	background-color: black;
+	margin: 70px auto;
+	opacity: .8;
+	color: white;
+	padding: 20px;
+}
+form .login
+{
+	margin: auto 50px;
+}
+input
+{
+	height: 25px;
+	width: 300px;
+
+}
+/*------------------------------registration--------------------*/
+.reg_img
+{
+	height: 630px;
+	margin-top: 0px;
+	background-image: url("images/6.jpg");
+}
+.box2
+{
+	height: 585px;
+	width: 400px;
+	background-color: black;
+	margin: 0px auto;
+	opacity: .7;
+	color: white;
+	padding: 35px;
+}	
